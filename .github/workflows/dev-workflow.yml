@@ -1,4 +1,4 @@
-name: Simple01
+name: dev-workflow
 
 # Controls when the workflow will run
 on:
